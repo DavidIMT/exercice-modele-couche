@@ -1,7 +1,7 @@
-package com.imt.framework.web.tuto.presentation;
+package com.imt.framework.web.tuto.adapter.in;
 
-import com.imt.framework.web.tuto.application.Livre;
-import com.imt.framework.web.tuto.application.LivreService;
+import com.imt.framework.web.tuto.domaine.Livre;
+import com.imt.framework.web.tuto.port.in.LivreService;
 
 import jakarta.validation.constraints.NotNull;
 import jakarta.ws.rs.*;

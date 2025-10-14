@@ -1,4 +1,4 @@
-package com.imt.framework.web.tuto.application;
+package com.imt.framework.web.tuto.domaine;
 
 import jakarta.persistence.*;
 

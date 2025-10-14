@@ -5,7 +5,7 @@ import org.glassfish.jersey.server.ResourceConfig;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.stereotype.Component;
 
-import com.imt.framework.web.tuto.presentation.LivreResource;
+import com.imt.framework.web.tuto.adapter.in.LivreResource;
 
 @Component
 @ApplicationPath("librairy")

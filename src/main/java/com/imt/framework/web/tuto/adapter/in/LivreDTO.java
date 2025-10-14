@@ -1,4 +1,4 @@
-package com.imt.framework.web.tuto.presentation;
+package com.imt.framework.web.tuto.adapter.in;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
