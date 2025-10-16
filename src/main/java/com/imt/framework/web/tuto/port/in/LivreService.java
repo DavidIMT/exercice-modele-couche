@@ -11,7 +11,7 @@ import com.imt.framework.web.tuto.adapter.out.LivreRepository;
 import com.imt.framework.web.tuto.domaine.Livre;
 
 @Service
-public class LivreService {
+public class LivreService implements LivreServicePort{
     @Autowired
     private LivreRepository livreRepository;
 
